@@ -1,4 +1,4 @@
-module github.com/dimcz/go-cidr
+module github.com/dimcz/cidr
 
 go 1.17
 
